@@ -29,7 +29,7 @@ Grandes telas: acima de 1200px
 
     section#login > div#formulario{
         float: right;
-        height: 70%;
+        width: 70%;
     }
 }
 
