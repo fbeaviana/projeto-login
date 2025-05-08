@@ -16,7 +16,7 @@ ROSA: #FC94B9
 }
 
 body, html {
-    background-color: #967A39;
+    background-image: linear-gradient(to left, #A8D5FC, #967A39, #FC94B9);
     height: 100vh;
     width: 100vw;
 }
@@ -97,7 +97,7 @@ div.campo > i {
 }
 
 div.campo > input {
-    background-color: #a8d5fcd2;
+    background-color: #A8D5FC;
     font-size: 1em;
     width: calc(100% - 45px);
     height: 100%;
